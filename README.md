@@ -1,2 +1,3 @@
 # AI-operating-system
 A complete AI-powered SaaS operating system for automation, lead generation, affiliate revenue, and autonomous business workflows.
+AI SaaS Factory is a production-ready AI automation platform built with Next.js, Firebase, Cloud Functions, and intelligent agent workflows. It provides lead management, affiliate tracking, real-time notifications, AI auto-responders, analytics, caching, CI/CD automation, and scalable SaaS infrastructure for building and monetizing modern AI-powered applications.
